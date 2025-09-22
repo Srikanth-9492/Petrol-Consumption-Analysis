@@ -1,4 +1,4 @@
-**Project Title: Petrol Consumption Prediction using Linear Regression**
+**Project Title: Petrol Consumption Analysis**
 
 ### **Objective**
 The primary goal of this project is to build a linear regression model to predict petrol consumption based on several key features. The analysis involves exploring the dataset, preprocessing the data, training a model, and evaluating its performance.
